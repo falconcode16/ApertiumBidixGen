@@ -25860,3 +25860,4 @@
 "exégesis"-noun-es "exegesis"-noun-en
 "harlequin"-noun-en "arlequín"-noun-es
 "arlequín"-noun-es "harlequin"-noun-en
+"essence"-noun-en "esencia"-noun-es
